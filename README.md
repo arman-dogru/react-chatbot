@@ -93,12 +93,10 @@ This project is an AI-powered conversational assistant built using **Google Gene
 ```
 ├── public
 ├── src
-│   ├── components
-│   │   ├── ChatHistory.js        # Displays chat history
-│   │   ├── ChatInput.js          # Input field for user messages
-│   ├── utils
-│   │   ├── aiUtils.js            # All AI-related functions
-│   ├── App.js                    # Main application component
+│   ChatHistory.js                # Displays chat history
+│   ChatInput.js                  # Input field for user messages
+│   aiUtils.js                    # All AI-related functions
+│   App.js                        # Main application component
 ├── .env                          # Environment variables
 ├── package.json                  # Project configuration and dependencies
 ├── README.md                     # Project readme
