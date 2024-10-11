@@ -1,0 +1,42 @@
+/* src/ChatHistory.css */
+
+.messageContainer {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  .messageBubble {
+    max-width: 60%;
+    padding: 10px;
+    border-radius: 10px;
+    word-wrap: break-word;
+  }
+  
+  .userBubble {
+    background-color: #DCF8C6;
+    align-self: flex-end;
+  }
+  
+  .bardBubble {
+    background-color: #ECECEC;
+    align-self: flex-start;
+  }
+  
+  /* Markdown styles */
+  h1 {
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  
+  h2 {
+    font-size: 22px;
+    margin: 9px 0;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin: 8px 0;
+  }
+  
+  /* Add more styles as needed */
+  
