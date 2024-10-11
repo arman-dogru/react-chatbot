@@ -1,4 +1,4 @@
-# Project Name: AI-Powered Conversational Assistant
+# Google Search Engine Powered Conversational AI
 
 This project is an AI-powered conversational assistant built using **Google Generative AI (gemini-1.5-flash)**, designed to assist users with various tasks such as generating responses, performing web searches, fetching content from links, and summarizing key points from conversations.
 
